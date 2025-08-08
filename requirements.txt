@@ -1,0 +1,13 @@
+langchain
+langchain_community
+langchain_huggingface
+langchain_community_huggingface
+langchain_community_huggingface_inference
+huggingface_hub #for Hugging Face integration
+langchain_community_huggingface
+ipykernel #for Jupyter Notebook support
+pyPDF #for PDF document loading
+python-dotenv #for loading environment variables from .env file
+sentence-transformers #for sentence embeddings
+huggingface_hub[hf_xet] # or hf_xet for extended Hugging Face features
+FAISS_CPU #for FAISS vector store
